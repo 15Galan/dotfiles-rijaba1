@@ -38,6 +38,7 @@ dotfiles() {
     cp -r sxhkd ~/.config/
     cp -r polybar ~/.config/
     cp -r kitty ~/.config/
+    cp -r wallpapers ~/.config/
     
     echo "Aplicando permisos..."
     
